@@ -1,0 +1,6 @@
+[submodule "sub-repo1"]
+	path = sub-repo1
+	url = https://github.com/ATom93/sub-repo1.git
+[submodule "sub_repo1"]
+	path = sub_repo1
+	url = https://github.com/ATom93/sub-repo1.git
